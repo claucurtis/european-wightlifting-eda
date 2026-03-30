@@ -1,6 +1,6 @@
 # 🏋️ Análisis de los Campeonatos Europeos de Halterofilia (2019–2024)
 
-> ** Análisis Exploratorio de Datos**
+> **Análisis Exploratorio de Datos**
 > Máster en Data Analytics
 > Autora: Claudia Balseiros
 
